@@ -2,9 +2,9 @@
 
 namespace Emchegep\MpesaExpress\Tests;
 
+use Emchegep\MpesaExpress\MpesaExpressServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Emchegep\MpesaExpress\MpesaExpressServiceProvider;
 
 class TestCase extends Orchestra
 {
