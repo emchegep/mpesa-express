@@ -1,6 +1,6 @@
 {
     "name": "emchegep/mpesa-express",
-    "description": "This is a laravel package for Mpesa Extress (STK Push) payment API",
+    "description": "This is a laravel package for Mpesa-Express (STK Push) payment API",
     "keywords": [
         "emchegep",
         "laravel",
