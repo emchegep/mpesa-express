@@ -13,7 +13,7 @@ return new class extends Migration
             $table->string('merchant_request_id')->unique();
             $table->string('checkout_request_id')->unique();
             $table->string('phone_number');
-            $table->double('amount',6,2);
+            $table->double('amount', 6, 2);
             $table->string('account_reference');
             $table->string('transaction_desc');
             $table->string('status');

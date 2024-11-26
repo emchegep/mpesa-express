@@ -2,9 +2,9 @@
 
 namespace Emchegep\MpesaExpress;
 
+use Emchegep\MpesaExpress\Commands\MpesaExpressCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Emchegep\MpesaExpress\Commands\MpesaExpressCommand;
 
 class MpesaExpressServiceProvider extends PackageServiceProvider
 {
